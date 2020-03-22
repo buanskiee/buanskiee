@@ -1,2 +1,2 @@
 # buanskiee
-fck this shit!
+System.out.print ("Hi!");
